@@ -1,0 +1,3 @@
+git add .
+git commit -m "v0.2.0 - Implement Royal Treasury, Crown Vault and Risk Bureau architecture"
+git push origin main
